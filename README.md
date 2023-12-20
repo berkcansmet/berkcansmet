@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Berkcan
-Full Stack Developer
+Full Stack Developer at Defy
 
 
 ## 🌐 Socials:
